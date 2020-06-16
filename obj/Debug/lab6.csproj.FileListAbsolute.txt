@@ -1,0 +1,6 @@
+E:\Studia\PIPO\LAB6\lab6\lab6\bin\Debug\lab6.exe.config
+E:\Studia\PIPO\LAB6\lab6\lab6\bin\Debug\lab6.exe
+E:\Studia\PIPO\LAB6\lab6\lab6\bin\Debug\lab6.pdb
+E:\Studia\PIPO\LAB6\lab6\lab6\obj\Debug\lab6.csprojAssemblyReference.cache
+E:\Studia\PIPO\LAB6\lab6\lab6\obj\Debug\lab6.exe
+E:\Studia\PIPO\LAB6\lab6\lab6\obj\Debug\lab6.pdb
